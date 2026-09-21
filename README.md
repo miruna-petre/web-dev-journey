@@ -1,3 +1,3 @@
 # web-dev-journey
 
-My web development practice.
+This repository documents my progress learning web development. It contains projects I designed and built independently alongside guided exercises from a bootcamp.
